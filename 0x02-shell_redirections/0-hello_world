@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Subject: 0-hello_world"
 echo "Hello, World"
